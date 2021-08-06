@@ -1,0 +1,16 @@
+footer {
+    background-color: #F5F5F5;
+    float: left;
+    width: 100%;
+    padding: 20px 20px;
+}
+
+footer p {
+    color: #000000;
+    font-size: 1.4rem;
+}
+
+footer small {
+    font-size: 80%;
+    display: block;
+}
