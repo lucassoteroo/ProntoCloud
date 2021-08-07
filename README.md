@@ -26,4 +26,12 @@
 
 <h2>Instalação</h2>
 
-<h5>$ git clone https://github.com/lucassoteroo/WebSite.git</h5> 
+<h5>$ git clone https://github.com/lucassoteroo/ProntoCloud.git</h5> 
+<h5>Uso do site https://putsmail.com/ para envio do e-mail marketing</h5>
+<h5>Uso do site https://www.cognitoforms.com/forms/ para receber as informções do formulário</h5>
+
+<h2>Contrução</h2>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
