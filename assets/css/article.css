@@ -1,0 +1,20 @@
+section article {
+    display: block;
+    width: 70%;
+    float: left;
+    padding: 20px 20px;
+}
+
+@media (max-width: 425px) {
+    section article {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-width: 769px) {
+    section article {
+        width: 100%;
+        height: auto;
+    }
+}

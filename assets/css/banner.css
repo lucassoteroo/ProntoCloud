@@ -1,0 +1,58 @@
+#banner {
+    background-image: url(../image/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 65vh;
+}
+
+.legenda-container {
+    float: right;
+    margin: 10vh 10vh 0 0;
+    width: 30vw;
+}
+
+.legenda {
+    background-color: rgba(255, 255, 255, .6);
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 5rem;
+}
+
+.legenda h5,
+.legenda h4 {
+    color: #385874;
+}
+
+.button-cta {
+    border-radius: 25px;
+    display: inline;
+    background-color: blue;
+    color: #fff;
+    font-size: 1.8rem;
+    box-shadow: 1px 1px 4px #454545;
+    padding: 10px 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 300;
+    float: right;
+}
+
+@media (max-width: 425px) {
+    .legenda-container {
+        width: 155px;
+    }
+}
+
+@media (max-width: 769px) {
+    #banner {
+        height: 30vh;
+    }
+    .legenda-container {
+        margin: 1vh 1vh 0 0;
+    }
+    .legenda {
+        margin-bottom: 2rem;
+    }
+}

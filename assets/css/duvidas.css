@@ -1,0 +1,21 @@
+#faq {
+    background-color: #fff;
+    padding: 30px 20px;
+}
+
+dl {
+    margin: 20px;
+}
+
+dt {
+    font-weight: 400;
+    font-family: sans-serif;
+    font-size: 2rem;
+    color: #385874;
+}
+
+dd {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+}

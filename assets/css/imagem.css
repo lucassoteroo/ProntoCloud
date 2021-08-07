@@ -1,0 +1,12 @@
+.imagem {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+@media (max-width: 425px) {
+    div.imagem img {
+        width: 100%;
+    }
+}
